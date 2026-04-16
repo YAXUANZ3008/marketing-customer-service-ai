@@ -1,0 +1,5 @@
+﻿model_key,model_name,train_samples,test_samples,epochs_requested,eval_loss,accuracy,precision_weighted,recall_weighted,f1_weighted,prediction_path,curve_path,model_output_dir
+distilbert,distilbert-base-uncased,3812,954,2,0.2986382842063904,0.8878406708595388,0.8870445056544511,0.8878406708595388,0.8874166131402215,data\baseline2_distilbert_test_predictions.csv,visualizations\baseline2_distilbert_training_curve.png,models\baseline2\distilbert
+bert,bert-base-uncased,3812,954,2,0.3156251907348633,0.8846960167714885,0.8842291741999936,0.8846960167714885,0.8843748367558555,data\baseline2_bert_test_predictions.csv,visualizations\baseline2_bert_training_curve.png,models\baseline2\bert
+cnn,TextCNN,3812,954,5,0.37050752838452655,0.8522012578616353,0.8736441601733088,0.8522012578616353,0.8594329306745909,data\baseline2_cnn_test_predictions.csv,visualizations\baseline2_cnn_training_curve.png,models\baseline2\cnn
+lstm,BiLSTM,3812,954,5,0.3837042212486267,0.8322851153039832,0.8307581228480475,0.8322851153039832,0.830858758188975,data\baseline2_lstm_test_predictions.csv,visualizations\baseline2_lstm_training_curve.png,models\baseline2\lstm

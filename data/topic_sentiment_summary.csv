@@ -1,0 +1,6 @@
+﻿topic,total_reviews,positive_count,negative_count,neutral_count,positive_ratio,negative_ratio,neutral_ratio,avg_sentiment_score,nps_like_score,negative_top_keywords
+Sports & Outdoors,2347,1246,185,916,0.5309,0.0788,0.3903,0.1912,45.21,leave; lowest; absolute; expectations; met; ignoring; unique; way; entire; doing
+Automotive,2388,1262,194,932,0.5285,0.0812,0.3903,0.1868,44.72,leave; met; lowest; expectations; absolute; unique; way; ignoring; regarding; question
+Electronics,2420,1284,204,932,0.5306,0.0843,0.3851,0.1853,44.63,leave; unique; way; ignoring; met; absolute; lowest; expectations; basic; object
+Clothing,2350,1241,225,884,0.5281,0.0957,0.3762,0.186,43.23,leave; met; lowest; ignoring; absolute; expectations; unique; way; question; ignored
+Home & Kitchen,2376,1240,220,916,0.5219,0.0926,0.3855,0.1855,42.93,leave; met; lowest; ignoring; absolute; unique; way; expectations; regarding; question

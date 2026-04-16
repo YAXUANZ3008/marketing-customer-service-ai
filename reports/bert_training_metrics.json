@@ -1,0 +1,18 @@
+{
+  "train_samples": 480,
+  "eval_samples": 120,
+  "label_mapping": {
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2
+  },
+  "model_name": "bert-base-uncased",
+  "num_epochs": 6,
+  "early_stopping_patience": 1,
+  "early_stopping_threshold": 0.0001,
+  "eval_loss": 0.013661705888807774,
+  "eval_accuracy": 0.9916666666666667,
+  "eval_precision_weighted": 0.9918699186991871,
+  "eval_recall_weighted": 0.9916666666666667,
+  "eval_f1_weighted": 0.9916653643798512
+}
